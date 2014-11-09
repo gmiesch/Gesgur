@@ -1,0 +1,17 @@
+body {
+   background-color: red;
+}
+
+#test {
+  font-color: red;
+}
+
+.dim {
+	height:100%;
+	width:100%;
+	position:fixed;
+	left:0;
+	top:0;
+	z-index:1 !important;
+	background-color:black;
+}
